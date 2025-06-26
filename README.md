@@ -84,4 +84,5 @@ Our vision is to revolutionize the crowdfunding industry by creating a fully dec
 This roadmap positions the Decentralized Crowdfunding Platform as a comprehensive solution that will evolve to meet the changing needs of the global crowdfunding ecosystem while maintaining its core principles of decentralization, transparency, and accessibility. 
   Contracts address     0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8
 
-  ss-
+  ss-Screenshot 2025-06-26 131351.png
+
